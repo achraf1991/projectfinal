@@ -1,0 +1,51 @@
+.articles {
+  text-align: center;
+  padding: 10vh;
+ }
+ .articles {
+  display: flex;
+}
+.articles_details {
+  margin: 10% 10% 0 10%;
+  text-align: center;
+}
+.stylebtn {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgb(139, 58, 58);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+.stylebtn :hover {
+    background-color: rgba(255, 0, 0, 1);
+}
+
+.stylebtn :active {
+    box-shadow: inset -2px -2px 3px rgba(109, 35, 35, 0.6),
+                inset 2px 2px 3px rgba(170, 21, 21, 0.6);
+}
+img.image_product {
+  width: 90px;
+  height: 90px;
+  margin-bottom: 75px;
+}
+.cardCam {
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 60px;
+  margin: 40px;
+  box-shadow: 12px 17px 41px black;
+  width: 500px;
+}
+

@@ -1,0 +1,10 @@
+.log {
+    margin-left: 40%;
+  margin-top: 5%;
+  width: 20%;
+  height: 50vh;
+  text-align: center;
+  box-shadow: 12px 17px 41px black;
+  border: 2px solid black;
+  border-radius: 60px;
+}

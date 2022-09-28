@@ -1,0 +1,15 @@
+.contact {
+  margin: 10% 21% 5% 33%;
+  justify-content: space-around;
+  align-items: center;
+  width: 30%;
+  border: 2px solid black;
+  padding: 30px;
+  border-radius: 40px !important;
+  box-shadow: 12px 17px 41px black;
+}
+.contact input {
+  border-radius: 10px;
+  width: 50 vh;
+  height: 4vh;
+}

@@ -1,0 +1,18 @@
+.acceuil {
+  background-image: url("C:\Users\DELL\Desktop\my project\projetone\public\home.jpg");
+  min-height: calc(100vh - 15vh);
+}
+.acceuil h1 {
+  padding: 15vh;
+  margin-left: 20vh;
+  color: rgb(255, 98, 20);
+}
+.acceuil h3 {
+  font-family: "Roboto";
+  font-style: italic;
+  font-size: 1.5rem;
+  margin-left: 30vh;
+}
+img.img_logo {
+  width: 120px;
+}
